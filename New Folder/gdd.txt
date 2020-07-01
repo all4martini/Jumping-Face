@@ -1,1 +1,7 @@
-das
+Game Elements
+
+-A character controller with different moves to navigate different obstacles
+
+-The ability to combo those moves and perform new "special" moves by doing so
+
+-A combo & stamina meter (potentially)
